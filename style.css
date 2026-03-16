@@ -1,0 +1,9 @@
+.student-data{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: blue;
+    color:aliceblue;
+    border: 1px solid #ddd;
+    padding: 8px;
+}

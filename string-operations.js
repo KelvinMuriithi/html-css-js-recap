@@ -23,3 +23,11 @@ let lastCharacter = studentName.charAt(studentName.length - 1)
 console.log(lastCharacter)
 let fifthCharacter = studentName.charAt(4)
 console.log(fifthCharacter)
+
+age = 30
+bruceAge = 23
+if(age != bruceAge){
+    console.log("Bruce and I are not the same age")
+}else{
+    console.log("Bruce and I are the same age")
+}
